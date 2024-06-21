@@ -2,7 +2,8 @@ _Google Apps Script_ skript na automatické posielanie denných úmyslov zapísa
 
 Vyhľadá aktuálny dátum v rozsahu buniek A6:A30,  
 vyberie príslušný text úmyslu v rozsahu buniek C6:C30,  
-odošle email s textom úmyslu na zvolenú adresu. 
+odošle email s textom úmyslu na zvolenú adresu.  
+(Rozsahy sa dajú samozrejme prispôsobiť podľa konkrétneho prípadu.)
 
 Použitie:  
 automatické spustenie je dosiahnuté pomocou funkcie `create_trigger()`.  
