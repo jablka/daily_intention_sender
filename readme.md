@@ -5,6 +5,8 @@ vyberie príslušný text úmyslu v rozsahu buniek C6:C30,
 odošle email s textom úmyslu na zvolenú adresu.  
 (Rozsahy sa dajú samozrejme prispôsobiť podľa konkrétneho prípadu.)
 
+![sheet example screen](sheet_example_screen.png)
+
 Použitie:  
 automatické spustenie je dosiahnuté pomocou funkcie `create_trigger()`.  
 Funkcia sa má spustiť len raz, vytvorí sa pritom Trigger, ktorý sa následne bude spúšťať automaticky podľa zvoleného nastavenia.  
